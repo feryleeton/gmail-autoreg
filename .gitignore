@@ -1,0 +1,5 @@
+venv/
+keys.txt
+__pycache__/
+data.json
+.idea/
